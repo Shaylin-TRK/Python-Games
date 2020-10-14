@@ -3,8 +3,8 @@
 
 The first working version of my BlackJack game which will be the basis for later versions.
 
-Created: 
+First Release: 9-26-2020
 
-Last updated:
+Last updated: 10-2-2020
 
 Update fixed a glitch pertaining to quitting a round, and the hands not being reset.
